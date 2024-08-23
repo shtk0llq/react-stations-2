@@ -1,0 +1,21 @@
+.header {
+    background-color: #66D48B;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 4rem;
+}
+
+.header p {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.header a {
+    color: #fff;
+}
+
+.header a:hover {
+    opacity: .7;
+}
